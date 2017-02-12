@@ -242,9 +242,12 @@ C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\00000000
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\20170210192412_Initial.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\20170210192412_Initial.Designer.cs
+C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\20170212210642_Initial2.cs
+C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\20170212210642_Initial2.Designer.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\ApplicationUser.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\Movie.cs
+C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\SeedData.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\AccountViewModels\ForgotPasswordViewModel.cs
 C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Models\AccountViewModels\LoginViewModel.cs
