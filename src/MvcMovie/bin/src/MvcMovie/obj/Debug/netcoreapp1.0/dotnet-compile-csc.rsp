@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\bin\Debug\netcoreapp1.0\MvcMovie.dll"
+"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\bin\src\MvcMovie\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\bin\src\MvcMovie\bin\Debug\netcoreapp1.0\MvcMovie.dll"
 -r:"C:\Users\Gregory\.nuget\packages\Microsoft.ApplicationInsights\2.1.0\lib\dotnet5.4\Microsoft.ApplicationInsights.dll"
 -r:"C:\Users\Gregory\.nuget\packages\Microsoft.ApplicationInsights.AspNetCore\1.0.0\lib\netstandard1.6\Microsoft.ApplicationInsights.AspNetCore.dll"
 -r:"C:\Users\Gregory\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
@@ -225,7 +225,7 @@
 -r:"C:\Users\Gregory\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Gregory\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Gregory\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\obj\Debug\netcoreapp1.0\MvcMoviedotnet-compile.deps.json",MvcMovie.deps.json
+-resource:"C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\bin\src\MvcMovie\obj\Debug\netcoreapp1.0\MvcMoviedotnet-compile.deps.json",MvcMovie.deps.json
 "C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Program.cs"
 "C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Startup.cs"
 "C:\Users\Gregory\Documents\GitHub\MvcMovie\src\MvcMovie\Controllers\AccountController.cs"
